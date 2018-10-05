@@ -41,4 +41,4 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11+ | Latest ✔
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://github.com/Kedar-K/gradient-button/blob/master/LICENSE)
