@@ -1,6 +1,6 @@
 # \<gradient-button\>
 
-This is a gradient button with the attractive colours and hover effects
+This is a gradient button with the attractive colours and hover effects and is created by using vanilla web component
 
 <!-- 
   The next comment block is used by webcomponents.org to enable inline demo.
@@ -30,6 +30,13 @@ First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polyme
 ```
 $ polymer serve
 ```
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
 ## Browser Support
 
