@@ -1,4 +1,8 @@
+<!--
+```
 [![Build Status](https://travis-ci.org/Kedar-K/gradient-button.svg?branch=master)](https://travis-ci.org/Kedar-K/gradient-button)
+```
+-->
 # \<gradient-button\>
 
 This is a gradient button with the attractive colours and hover effects and is created by using vanilla web component
