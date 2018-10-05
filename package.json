@@ -1,0 +1,22 @@
+{
+  "name": "gradient-button",
+  "description": "This is a gradient button with the attractive colours and hover effects",
+  "main": "gradient-button.html",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "web-components",
+    "webcomponents"
+  ],
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "install": "polymer install",
+    "start": "polymer serve",
+    "test": "polymer test"
+  },
+  "devDependencies": {
+    "polymer-cli": "^1.0.0"
+  }
+}

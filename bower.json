@@ -1,0 +1,21 @@
+{
+  "name": "gradient-button",
+  "description": "This is a gradient button with the attractive colours and hover effects",
+  "main": "gradient-button.html",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "web-components",
+    "webcomponents"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2",
+    "web-component-tester": "^6",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^1"
+  }
+}

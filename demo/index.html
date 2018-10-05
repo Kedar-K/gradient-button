@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes">
+
+  <title>gradient-button demo</title>
+
+
+  <link rel="import" href="../../iron-demo-helpers/demo-pages-shared-styles.html">
+  <link rel="import" href="../../iron-demo-helpers/demo-snippet.html">
+  <link rel="import" href="../gradient-button.html">
+  <link href="https://fonts.googleapis.com/css?family=Fredoka+One|Josefin+Slab|Jura|Kanit|Raleway" rel="stylesheet">
+
+  <custom-style>
+    <style is="custom-style" include="demo-pages-shared-styles">
+      gradient-button {
+        margin: 25px;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: 'Kanit', sans-serif;
+
+      }
+
+      body {
+        font-family: 'Jura', sans-serif;
+      }
+    </style>
+  </custom-style>
+</head>
+
+<body>
+  <div class="vertical-section-container centered">
+    <h3>Basic gradient-button demo</h3>
+    <demo-snippet>
+      <template>
+        <h3>Basic button functionality</h3>
+        <gradient-button>Button</gradient-button>
+        <gradient-button disabled>Button</gradient-button>
+
+
+        <h3>Add some colours to it?</h3>
+        <gradient-button red>Button</gradient-button>
+        <gradient-button blue>Button</gradient-button>
+        <gradient-button yellow>Button</gradient-button>
+        <gradient-button green>Button</gradient-button>
+        <gradient-button orange>Button</gradient-button>
+        <gradient-button purple>Button</gradient-button>
+
+
+        <h3>Disable the coloured buttons</h3>
+        <gradient-button red disabled>Button</gradient-button>
+        <gradient-button blue disabled>Button</gradient-button>
+        <gradient-button yellow disabled>Button</gradient-button>
+        <gradient-button green disabled>Button</gradient-button>
+        <gradient-button orange disabled>Button</gradient-button>
+        <gradient-button purple disabled>Button</gradient-button>
+
+      </template>
+    </demo-snippet>
+  </div>
+
+  <script src="../../webcomponentsjs/webcomponents-loader.js"></script>
+
+</body>
+
+</html>
