@@ -1,8 +1,8 @@
 # \<gradient-button\>
 
-This is a gradient button with the attractive colours and hover effects
+This is a gradient button with the attractive colours and hover effects and is created by using vanilla web component
 
-<!-- 
+<!--
   The next comment block is used by webcomponents.org to enable inline demo.
   Visit https://www.webcomponents.org/publish for more details.
 -->
@@ -30,15 +30,22 @@ First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polyme
 ```
 $ polymer serve
 ```
+## Contributing
 
-## Running Tests
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
 
-```
-$ polymer test
-```
+## Browser Support
 
-Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
+Using the [webcomponents.js](https://github.com/WebComponents/webcomponentsjs):
+
+ ![Chrome](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/chrome/chrome_48x48.png) | ![Opera](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/opera/opera_48x48.png) | ![Firefox](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/firefox/firefox_48x48.png) | ![Safari](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/safari/safari_48x48.png) |![IE](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) |  ![Edge](https://cdnjs.cloudflare.com/ajax/libs/browser-logos/39.2.2/edge/edge_48x48.png) |
+:---: | :---: | :---: | :---: | :---: | :---: |
+Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11+ | Latest ✔
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT)
+[MIT](https://github.com/Kedar-K/gradient-button/blob/master/LICENSE)
