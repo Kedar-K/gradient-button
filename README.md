@@ -16,6 +16,20 @@ This is a gradient button with the attractive colours and hover effects and is c
   Visit https://www.webcomponents.org/publish for more details.
 -->
 <!--
+```
+<custom-element-demo>
+  <template>
+    <script src="../webcomponentsjs/webcomponents-loader.js"></script>
+    <link rel="import" href="gradient-button.html">
+    <next-code-block></next-code-block>
+  </template>
+</custom-element-demo>
+```
+-->
+```html
+<gradient-button></gradient-button>
+```
+
 ## Install the Polymer-CLI
 
 First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) installed. Then run `polymer serve` to serve your element locally.
