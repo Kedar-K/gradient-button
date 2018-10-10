@@ -15,17 +15,7 @@ This is a gradient button with the attractive colours and hover effects and is c
   The next comment block is used by webcomponents.org to enable inline demo.
   Visit https://www.webcomponents.org/publish for more details.
 -->
-<!--
-```
-<custom-element-demo>
-  <template>
-    <script src="../webcomponentsjs/webcomponents-loader.js"></script>
-    <link rel="import" href="gradient-button.html">
-    <next-code-block></next-code-block>
-  </template>
-</custom-element-demo>
-```
--->
+
 ![demo](demo.gif)
 ```html
 <gradient-button>Button</gradient-button>
