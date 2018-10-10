@@ -49,6 +49,14 @@ $ polymer serve
 
 ## Avaliable in various colours
 ![Coloured buttons](https://github.com/Kedar-K/gradient-button/blob/master/Screenshot%20from%202018-10-10%2019-19-25.png)
+```html
+<gradient-button red>Button</gradient-button>
+<gradient-button blue>Button</gradient-button>
+<gradient-button yellow>Button</gradient-button>
+<gradient-button green>Button</gradient-button>
+<gradient-button orange>Button</gradient-button>
+<gradient-button purple>Button</gradient-button>
+```
 
 ## Contributing
 
