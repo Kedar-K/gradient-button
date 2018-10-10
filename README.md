@@ -37,6 +37,10 @@ First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polyme
 ```
 $ polymer serve
 ```
+
+##Avaliable in various colours
+![Coloured buttons](https://github.com/Kedar-K/gradient-button/blob/master/Screenshot%20from%202018-10-10%2019-19-25.png)
+
 ## Contributing
 
 1. Fork it!
