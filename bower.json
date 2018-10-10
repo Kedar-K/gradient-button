@@ -17,5 +17,8 @@
     "iron-demo-helpers": "PolymerElements/iron-demo-helpers#^2",
     "web-component-tester": "^6",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^1"
+  },
+  "demos": {
+    "Demo": "demo/index.html"
   }
 }
