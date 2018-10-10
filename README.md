@@ -5,7 +5,7 @@
 -->
 # \<gradient-button\>
 
-This is a gradient button with the attractive colours and hover effects and is created by using vanilla web component
+This is a gradient button with the attractive colours and hover effects and is created by using vanilla web component.
 
 <!--
   The next comment block is used by webcomponents.org to enable inline demo.

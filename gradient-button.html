@@ -10,7 +10,7 @@ This is a gradient button with the attractive colours and hover effects
       display: inline-block;
       box-sizing: border-box;
       margin: 0px;
-      min-height: 30px;
+      height: 30px;
       text-align: center;
       font: inherit;
       transition: box-shadow 0.3s ease-in-out;
@@ -123,7 +123,7 @@ This is a gradient button with the attractive colours and hover effects
       cursor: not-allowed;
     }
   </style>
-  <span id="prop1"></span>
+  <span><span id="prop1"></span></span>
 </template>
 
 <script>
@@ -154,7 +154,7 @@ This is a gradient button with the attractive colours and hover effects
          * @private
          */
         this._properties = {
-          prop1: this.textContent || 'gradient-button',
+          prop1: this.textContent,
         };
       }
 
