@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/Kedar-K/gradient-button.svg?branch=master)](https://travis-ci.org/Kedar-K/gradient-button)
 ```
 -->
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/owner/my-element)
 [![NPM version](https://badge.fury.io/js/badge-list.svg)](http://badge.fury.io/js/badge-list)
 [![GitHub version](https://badge.fury.io/gh/boennemann%2Fbadges.svg)](http://badge.fury.io/gh/boennemann%2Fbadges)
 [![Bower version](https://badge.fury.io/bo/badges.svg)](http://badge.fury.io/bo/badges)
