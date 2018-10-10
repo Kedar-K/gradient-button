@@ -19,8 +19,6 @@
   "devDependencies": {
     "polymer-cli": "^1.0.0"
   },
-  "repository":{
-    "type": "git",
-    "url": "https://github.com/kedar-k/gradient-button.git"
-  }
+  "repository": "github:kedar-k/gradient-button"
+
 }
