@@ -33,7 +33,7 @@ $ polymer serve
 ```
 
 ## Avaliable in various colours
-![Coloured buttons](https://github.com/Kedar-K/gradient-button/blob/master/Screenshot%20from%202018-10-10%2019-19-25.png)
+![Coloured buttons](colors.png)
 ```html
 <gradient-button red>Button</gradient-button>
 <gradient-button blue>Button</gradient-button>
