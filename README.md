@@ -17,6 +17,18 @@ This is a gradient button with the attractive colours and hover effects and is c
 -->
 
 ![demo](demo.gif)
+<!-- 
+```
+<custom-element-demo>
+  <template>
+    <script src="../webcomponentsjs/webcomponents-lite.js"></script>
+    <link rel="import" href="demo/index.html">
+    <link rel="import" href="gradient-button.html">
+  <next-code-block></next-code-block>
+  </template>
+</custom-element-demo>
+```
+ -->
 ```html
 <gradient-button>Button</gradient-button>
 <gradient-button disabled>Button</gradient-button>
