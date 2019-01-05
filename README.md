@@ -17,7 +17,7 @@ This is a gradient button with the attractive colours and hover effects and is c
 -->
 
 ![demo](demo.gif)
-<!-- 
+<!--
 ```
 <custom-element-demo>
   <template>
@@ -53,6 +53,17 @@ $ polymer serve
 <gradient-button green>Button</gradient-button>
 <gradient-button orange>Button</gradient-button>
 <gradient-button purple>Button</gradient-button>
+```
+
+## In round borders
+![round buttons](round.png)
+```html
+<gradient-button round red>Button</gradient-button>
+<gradient-button round blue>Button</gradient-button>
+<gradient-button round yellow>Button</gradient-button>
+<gradient-button round green>Button</gradient-button>
+<gradient-button round orange>Button</gradient-button>
+<gradient-button roundpurple>Button</gradient-button>
 ```
 
 ## Contributing
