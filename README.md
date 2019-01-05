@@ -63,7 +63,7 @@ $ polymer serve
 <gradient-button round yellow>Button</gradient-button>
 <gradient-button round green>Button</gradient-button>
 <gradient-button round orange>Button</gradient-button>
-<gradient-button roundpurple>Button</gradient-button>
+<gradient-button round purple>Button</gradient-button>
 ```
 
 ## Contributing
